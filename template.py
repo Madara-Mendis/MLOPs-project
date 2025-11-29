@@ -25,7 +25,7 @@ list_of_files = [
     "Dockerfile",#Docker configuration file for containerizing the application
     "requirements.txt",
     "setup.py",#Setup file for packaging and distributing the project.Makes your project pip-installable as a package.
-    "research/trials.ipynb"#Jupyter notebook for experimentation and prototyping
+    "research/trials.ipynb",#Jupyter notebook for experimentation and prototyping
     "templates/index.html"#HTML template for web application
 ]
 
